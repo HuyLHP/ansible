@@ -1,7 +1,7 @@
 ---
 - name: cau hinh switch
   host: all
-  gather_fact: no
+  gather_facts: no
   
   tasks:
     - name : show ip
