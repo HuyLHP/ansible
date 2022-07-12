@@ -1,6 +1,6 @@
 ---
 - name: cau hinh switch
-  host: all
+  hosts: all
   gather_facts: no
   
   tasks:
